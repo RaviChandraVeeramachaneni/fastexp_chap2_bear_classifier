@@ -9,3 +9,7 @@ Also the final model trained will be exported & saved to export.pkl file which w
 <u><h3>Experiment-1 : bears_web_app_chap_2_exp_1</h3></u>
 
 This file consists of code where we will be using the exported model file for inference & prediction over the images we will be uploading. And all the widgets that are required to show up this notebook as a simple webapp. 
+
+Here is the link to webapp built using viola & binder:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RaviChandraVeeramachaneni/fastexp_chap2_bear_classifier/HEAD?urlpath=bears_web_app_chap_2_exp_1.ipynb)
